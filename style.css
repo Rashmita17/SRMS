@@ -1,0 +1,77 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	background-image: url(images/WhatsApp\ Image\ 2024-04-27\ at\ 1.23.54\ PM.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin:0px;
+}
+.head
+{
+	font-family:Algerian;
+	font-size:40px;
+	color:white;
+	margin-left:50px;
+
+}
+
+.hr
+{
+	width:50%;
+	height:5px;
+	border-radius:1000px;
+	background-color:white;
+}
+
+.subhead
+{
+	font-family:"bold";
+	color:yellow;
+	font-size:30px;
+	text-decoration:underline;
+}
+
+
+.labels
+{
+	font-family:"Segoe UI";
+	color:white;
+	font-size:16px;
+	font-style:italic;
+	font-weight: 700;
+}
+
+.fields
+{
+	font-family:"Segoe UI";
+	font-size:14px;
+	padding:2px 5px;
+	color:rgb(9,139,139); 
+	border:1px solid #126062;
+	border-radius:5px;
+}
+.design
+{
+	background-color: blue;
+	border:1px solid #126062;
+	border-radius:5px;
+	padding:10px 10px;
+	box-shadow:0px 0px 40px #000000;
+}
+a.link:link{text-decoration:none;font-family:"Trebuchet MS";font-size:14px;color:whitesmoke;}
+a.link:active{text-decoration:none;font-family:"Trebuchet MS";font-size:14px;color:whitesmoke;}
+a.link:visited{text-decoration:none;font-family:"Trebuchet MS";font-size:14px;color:whitesmoke;}
+a.link:hover{text-decoration:none;font-family:"Trebuchet MS";font-size:15px;color:#FFFFFF;}
+
+.msg
+{
+	font-family:"Segoe UI";
+	font-size:14px;
+	color:white;
+}
+
+a.cmd:link{text-decoration:none;font-family:"Trebuchet MS";font-size:15px;color:whitesmoke;padding:5px 6px;border:1px solid #066;}
+a.cmd:active{text-decoration:none;font-family:"Trebuchet MS";font-size:15px;color:whitesmoke;padding:5px 6px;border:1px solid #066;}
+a.cmd:visited{text-decoration:none;font-family:"Trebuchet MS";font-size:15px;color:whitesmoke;padding:5px 6px;border:1px solid #066;}
+a.cmd:hover{text-decoration:none;font-family:"Trebuchet MS";font-size:15px;color:whitesmoke;padding:5px 6px;border:1px solid #066;box-shadow:0px 0px 10px #066;}
